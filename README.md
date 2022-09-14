@@ -1,5 +1,5 @@
 # Clasificación de imágenes para la detección de puntos críticos generados por la acumulación de residuos contaminantes.
-![Clasificación de imágenes para la detección de puntos críticos generados por la acumulación de residuos contaminantes.](https://github.com/NeiderSmith/gb_vs_nogb/logo.png)
+![Clasificación de imágenes para la detección de puntos críticos generados por la acumulación de residuos contaminantes.](/logo.png)
 
 ## Autores:
 Neider Smith Narvaez Carvajal (2170128)
