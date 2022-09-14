@@ -16,9 +16,7 @@ En el proyecto se hacen uso de dos datasets:
 Modelos utilizados: CNN.
 
 ## Enlaces:
-Repositorio: https://github.com/NeiderSmith/gb_vs_nogb
-
-Enlace del video en youtube: ...
+[**Notebook**](Proyecto_IA2.ipynb), [**Video**](https://youtu.be/nfRQczDR_mE), [**Diapositivas**](Presentación_proyecto_IA_2.pdf), [**Repositorio**](https://github.com/NeiderSmith/gb_vs_nogb)
 
 ## Descripcion de archivos:
 - gb: 728 Imagenes clasificadas como basura por parte del data-set (1)
